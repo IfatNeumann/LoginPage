@@ -3,7 +3,8 @@ const loginButton = document.getElementById("login-form-submit");
 const loginErrorMsg = document.getElementById("login-error-msg");
 const usersToPasswords = {
     "ifat":"qwerty",
-    "rotem":"123456"
+    "rotem":"123456",
+    "chen":"ILoveJustinBieber"
 };
 
 // function getHashedPassword(password) {
