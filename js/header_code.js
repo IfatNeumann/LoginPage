@@ -15,7 +15,7 @@ window.onload = function injectHeader() {
                     <a href="aboutme.html">About Me</a>
                 </li>
                 <li>
-                    <a href="login.html">Log out</a>
+                    <a href="../index.html">Log out</a>
                 </li>
             </ul>
         </nav>
