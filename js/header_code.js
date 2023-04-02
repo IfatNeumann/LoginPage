@@ -1,7 +1,7 @@
 window.onload = function injectHeader() {
     let header = `
     <div class="container">
-        <a href="#" class="logo">
+        <a href="otherpage.html" class="logo">
             Ifat's Website</a>
         <nav class="main-nav">
             <ul class="main-nav-list">
@@ -9,7 +9,7 @@ window.onload = function injectHeader() {
                     <a class="active" href="otherpage.html">Home</a>
                 </li>
                 <li>
-                    <a href="#games">Games</a>
+                    <a href="games.html">Games</a>
                 </li>
                 <li>
                     <a href="aboutme.html">About Me</a>
